@@ -1,1 +1,1 @@
-# New-Patient-Registration-System-
+# window-app-for-hospital-administration
